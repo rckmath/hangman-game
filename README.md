@@ -11,13 +11,13 @@ Your favorite old school game now in an old school interface. Find out the hidde
 
 # Install instructions
 
-## Common user
+## Common users
 1. Go to releases tab</br >
 2. Download the Hangman.exe file</br >
 3. Run it</br >
 4. Have fun! :)
 
-## Pro user
+## Pro users
 1. Clone or download zip our project via github</br >
 2. Open a terminal/cmd window in "src" folder</br >
 3. Compile the "main.cpp" using an installed compiler which suportts C++</br >
