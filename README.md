@@ -1,4 +1,4 @@
-![Logic Flight logo](doc/hangman.png)
+![Logic Flight logo](doc/hangman.gif)
 
 # The project
 
