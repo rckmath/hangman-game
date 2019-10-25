@@ -26,7 +26,7 @@ Your favorite old school game now in an old school interface. Find out the hidde
 # In-game instructions
 
 1. Select your desired play option on main menu (random default words or an inserted word)</br >
-2. Now just type an alfabetic letter and try to match the word.
+2. Now just type an alfabetic letter and try to match the word
 
 # Developers
 
