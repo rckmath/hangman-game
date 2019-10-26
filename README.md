@@ -20,7 +20,7 @@ Your favorite old school game now in an old school interface. Find out the hidde
 ## Pro users
 1. Clone or download zip our project via github</br >
 2. Open a terminal/cmd window in "src" folder</br >
-3. Compile the "main.cpp" using an installed compiler which suportts C++</br >
+3. Compile the "main.cpp" using an installed compiler which supports C++</br >
 4. At the same folder, run the compiled file using "./name-of-compiled-file.exe" in your terminal/cmd
 
 # In-game instructions
